@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Mayank Sahai<br>- 👀 I’m interested in programming and Open Source<br>- 🌱 I’m currently learning Engg in CS
+- 👋 Hi, I’m Mayank Sahai<br>- 👀 I’m interested in AI, ML, Development and Open Source<br>- 🌱 I’m currently learning Engg in CS
 
 
 ## 🌐 Socials:
