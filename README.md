@@ -6,7 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your_username](https://www.linkedin.com/in/mayank-sahai-2b9306262/))
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankREALsahai&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankREALsahai&show_icons=true&theme=radical) ![Profile Views](https://komarev.com/ghpvc/?username=mayankREALsahai)
+
 
 
 
