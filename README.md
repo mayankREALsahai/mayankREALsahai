@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Mayank Sahai<br>- 👀 I’m interested in AI, ML, Development and Open Source<br>- 🌱 I’m currently pursuing my B.Tech in CS from SIT, Pune.
+- 👋 Hi, I’m Mayank Sahai<br>- 👀 I’m interested in Backend API Development and Machine Learning<br>- 🌱 I’m currently pursuing my B.Tech in CS from SIT, Pune.
 
 
 ## 🌐 Socials:
